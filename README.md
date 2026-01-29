@@ -1,5 +1,5 @@
 # student-connect
-
+<img width="500" height="500" alt="STUDENT CONNECT" src="https://github.com/user-attachments/assets/6b18f68e-cb1a-4c4a-925e-dbf4664f0403" />
 My first project
 📘 Overview: Student Management System
 The Student Management System is a web-based application designed to streamline the management of student information within educational institutions. Built using HTML, CSS, JavaScript, Java (JSP/Servlets), and MySQL, the system provides administrators with an intuitive interface to perform essential operations on student records.
