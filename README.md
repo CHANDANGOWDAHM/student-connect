@@ -1,5 +1,5 @@
 # student-connect
-<img width="100" height="100" alt="STUDENT CONNECT" src="https://github.com/user-attachments/assets/6b18f68e-cb1a-4c4a-925e-dbf4664f0403" />
+<img width="180" height="180" alt="STUDENT CONNECT" src="https://github.com/user-attachments/assets/6b18f68e-cb1a-4c4a-925e-dbf4664f0403" />
 
 My first project
 📘 Overview: Student Management System
